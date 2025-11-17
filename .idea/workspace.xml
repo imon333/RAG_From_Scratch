@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d982b3a0-da25-4b18-81ba-2e7a86687e17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/pdf/USA_CHINA_AI.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/pdf_loader.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RAG_From_Scratch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RAG_From_Scratch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/document.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/document.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +44,17 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/eimon/PycharmProjects/RAG_From_Scratch/data/excel",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "last_opened_file_path": "/Users/eimon/PycharmProjects/RAG_From_Scratch/notebook",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data/excel" />
-      <recent name="$PROJECT_DIR$/data/pdf" />
       <recent name="$PROJECT_DIR$/notebook" />
+      <recent name="$PROJECT_DIR$/data/pdf" />
+      <recent name="$PROJECT_DIR$/data/excel" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/pdf" />
@@ -95,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763287816152</updated>
       <workItem from="1763287817708" duration="9000" />
+      <workItem from="1763391653617" duration="5000" />
     </task>
     <servers />
   </component>
