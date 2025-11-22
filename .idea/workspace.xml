@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d982b3a0-da25-4b18-81ba-2e7a86687e17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/pdf/AI_Applications_in_CyberSecurity.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/pdf/Research_Paper_on_Artificial_Intelligence.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook/pdf_loader.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/pdf_loader.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
